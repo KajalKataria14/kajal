@@ -1,0 +1,17 @@
+COFFEE
+
+ingredients:
+1.milk
+2.coffee powder
+3.sugar
+
+method:
+Take a utensil.
+Pour 1 cup of milk.
+let it boil on a medium flame.
+Add sugar as per required.
+pour the milk in a cup.
+add a table spoom of coffee powder to it.
+stir it well.
+drink
+
